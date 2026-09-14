@@ -35,6 +35,16 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Mapa con teselas OpenStreetMap.
+  flutter_map: ^8.3.2
+  latlong2: ^0.10.1
+
+  # Geolocalizacion en primer plano.
+  geolocator: ^14.0.3
+
+  # Vibracion con duracion controlada para el aviso de llegada.
+  vibration: ^3.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
